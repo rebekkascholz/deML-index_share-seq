@@ -1,0 +1,31 @@
+---
+Project0:
+    Name: atac.lib
+    Primer:
+        - P1.09
+    Round1:
+        - R1.01
+        - R1.24
+Project1:
+    Name: rna.lib
+    Primer:
+        - P1.12
+        - P1.13
+    Round1:
+        - R1.25
+        - R1.48
+Project2:
+    Name: atac.lib2
+    Primer:
+        - P1.15
+    Round1: 
+        - R1.49
+        - R1.72
+Project3:
+    Name: rna.lib2
+    Primer:
+        - P1.18
+    Round1:
+        - R1.73
+        - R1.96
+
